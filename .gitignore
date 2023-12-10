@@ -1,0 +1,9 @@
+node_modules/
+# server/config/firebase.config.js
+server/config/serviceAccountKey.json
+package-lock.json
+dist-server
+coverage
+.scannerwork
+.env
+jmeter.log
